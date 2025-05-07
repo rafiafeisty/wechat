@@ -1,0 +1,12 @@
+.hover-home{
+  font-size: large;
+  color: white;
+}
+.hover-home:hover{
+  font-size: large;
+  color:#103460
+}
+.main{
+  font-size: 2rem;
+  font-weight: 700;
+}
